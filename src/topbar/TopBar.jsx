@@ -4,10 +4,10 @@ export default function TopBar() {
   return (
     <div className="top">
       <div className="topLeft">
-        <i className="topIcon fa-brands fa-facebook-f"></i>
-        <i className="topIcon fa-brands fa-twitter"></i>
-        <i className="topIcon fa-brands fa-pinterest-p"></i>
-        <i className="topIcon fa-brands fa-instagram"></i>
+        <i className="topIcon fa-brands fa-square-facebook"></i>
+        <i className="topIcon fa-brands fa-square-twitter"></i>
+        <i className="topIcon fa-brands fa-square-pinterest"></i>
+        <i className="topIcon fa-brands fa-square-instagram"></i>
       </div>
       <div className="topCenter">
         <ul className="topList">
